@@ -5,5 +5,3 @@ Novo Teste
 
 Teste de Commit - primeiro
 Teste de Commit - segundo
-Teste de Commit - terceiro
-
