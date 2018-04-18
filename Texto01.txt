@@ -4,4 +4,3 @@ Novo item atualizado. Dia 16.03.18
 Novo Teste
 
 Teste de Commit - primeiro
-Teste de Commit - segundo
