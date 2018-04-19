@@ -2,3 +2,5 @@ Teste de uso do Git.
 Novo item atualizado. Dia 28.11.17.
 Novo item atualizado. Dia 16.03.18
 Novo Teste
+Teste de merge para ver se está na branch desenvolvimento.
+<version>3.7.15-SNAPSHOT<version>
